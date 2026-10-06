@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Alya Batrisyia
 
-<!--
-**batrisyiaYazid/batrisyiaYazid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am 3rd Year Student of Computer Science (Hons.) at UiTM interested in Programming and Big Data.
 
-Here are some ideas to get you started:
+## About me
+- Studying: Computer Science in Hons., UiTM
+- Currently learning: Big Data
+- My FYP area: Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and tools
+[List what you know. Example: Python, Git, SQL]
+
+## Projects
+- [Project name](link-to-your-repository): one sentence about it
+
+## Contact
+- LinkedIn: Nur Alya Batrisyia Che Yazid
+- Email: batmarais05@gmail.com
+

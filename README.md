@@ -4,8 +4,8 @@ I am 3rd Year Student of Computer Science (Hons.) at UiTM interested in Programm
 
 ## About me
 - Studying: Computer Science in Hons., UiTM
-- Currently learning: Big Data
-- My FYP area: Machine Learning
+- Currently learning: Big Data, Java, Machine Learning
+- My FYP area: 
 
 ## Skills and tools
 [List what you know. Example: Python, Git, SQL]

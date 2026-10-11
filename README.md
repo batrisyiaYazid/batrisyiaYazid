@@ -8,7 +8,10 @@ I am 3rd Year Student of Computer Science (Hons.) at UiTM interested in Programm
 - My FYP area: 
 
 ## Skills and tools
-[List what you know. Example: Python, Git, SQL]
+- Java
+- SQL
+- NetBeans
+- BlueJ
 
 ## Projects
 - [Project name](link-to-your-repository): one sentence about it
